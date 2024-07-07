@@ -1,0 +1,13 @@
+flask
+flask-cors
+flask-sqlalchemy
+flask-migrate
+tensorflow
+nltk
+numpy
+httpx
+flask_sqlalchemy
+flask_migrate
+seg
+argparse
+#pycrfsuite pip install python-crfsuite
