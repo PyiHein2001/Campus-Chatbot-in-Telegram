@@ -13,7 +13,7 @@ To test the model and collect data.
 ## How to run the app
 Model file ကို အရင်ဆုံး တစ်ခါ ပြန် train လုပ်ပြီးမှ run ရင်တော့ ပိုကောင်းပါတယ်။ 
 
-You need to fill the telegram API key before you run the chatbot_telegram3.py.
+You need to fill the telegram API token key before you run the chatbot_telegram3.py.
 
 ```bash
   python3 chatbot_telegram3.py
