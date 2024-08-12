@@ -1,0 +1,343 @@
+User ID: 5110418380, Message: စာမေးပွဲလတွေကဘယ်လတွေလဲ
+User ID: 5110418380, Message: မင်္ဂလာပါ
+User ID: 5110418380, Message: စာမေးပွဲလတွေကဘယ်လတွေလဲ
+User ID: 5110418380, Message: ကျောင်းအဆောင်လျှောက်ဖို့ဘာတွေလိုလဲ
+User ID: 5110418380, Message: ကျောင်းစာကြည့်တိုက်ရှိလား
+User ID: 5110418380, Message: စာကြည့်တိုက်က စာအုပ်တွေစုံလား
+User ID: 5110418380, Message: ကျေးဇူးတင်ပါတယ်
+User ID: 5110418380, Message: ကျောင်းကနေ MTUကို ပေါင်းကူးလို့ရလား, Predicted Intent: transfer
+User ID: 5110418380, Message: ကျောင်းပေါင်းကူးတာ က GTI တွေကောရလား, Predicted Intent: activity
+User ID: 5110418380, Message: hello, Predicted Intent: greeting
+User ID: 5110418380, Message: မင်္ဂလာပါ, Predicted Intent: greeting
+User ID: 5110418380, Message: Hello, Predicted Intent: greeting
+User ID: 5110418380, Message: မင်္ဂလာပါ, Predicted Intent: greeting
+User ID: 5110418380, Message: ကျေးဇူးတင်ပါတယ်, Predicted Intent: greeting
+User ID: 5110418380, Message: Thanks, Predicted Intent: thanks
+User ID: 5110418380, Message: ကျောင်းအပ်ဖို့ဘာတွေလိုလဲ, Predicted Intent: major
+User ID: 5110418380, Message: ကျောင်းအပ်ဖို့ဘာတွေလိုလဲ, Predicted Intent: requirements
+User ID: 5110418380, Message: ကျောင်းအပ်ဖို့ဘာတွေလိုလဲ, Predicted Intent: requirements
+User ID: 5110418380, Message: ၁၁၁၁၁, Predicted Intent: internship
+User ID: 5110418380, Message: ကျောင်းလိပ်စာကိုပြောပြပါ, Predicted Intent: address
+User ID: 5110418380, Message: ကျောင်းပြီးသွားရင် မာစာတာတက်လိုရလား, Predicted Intent: transfer
+User ID: 5110418380, Message: scholarship တွေရှိလား, Predicted Intent: activity_club
+User ID: 5110418380, Message: scholarship တွေရှိလား, Predicted Intent: scholarship
+User ID: 5110418380, Message: scholarship တွေရှိလား, Predicted Intent: scholarship
+User ID: 1839554698, Message: Hello, Predicted Intent: greeting
+User ID: 1839554698, Message: TUM နဲ့ပက်သက်ပီး စုံစမ်းချင်လို့ပါ, Predicted Intent: address
+User ID: 1839554698, Message: Major ဘနခုရှိလဲဗျ, Predicted Intent: major
+User ID: 1839554698, Message: ညီမလေးချောချောလေးတွေရော ရှိလား, Predicted Intent: scholarship
+User ID: 1839554698, Message: နိုင်ငံခြား scholarship များနဲ့ပက်သက်ပီး ပြောပြပေးပါ, Predicted Intent: scholarship
+User ID: 1839554698, Message: မြန်မာတနိုင်ငံလုံး ကျောင်းတွင်း ပွဲတွေ အစီအစဉ်တွေ သိရတာ ဘာလို့နောက်ကျတာလဲဗျ, Predicted Intent: requirements
+User ID: 1839554698, Message: Event တွေသိရရင် နောက်ဆုံး form လျှောက်တင်ရတဲ့နေ့က ဒီနေ့နေ့လယ် ၁၂ နာရီ ဆို ဘာလို့ ဒီနေ့ ညနေ ၄ နာရီ နောက်ဆုံး form ပိတ်ချိန်လဲဗျ, Predicted Intent: transfer
+User ID: 1839554698, Message: Event တွေရော ကျောင်းသားတွေဆီ ဘာလို့တန်းမရောက်တာလဲဗျ, Predicted Intent: noanswer
+User ID: 1839554698, Message: ဆရာ ဆရာမတွေက အသိပေးရင်လဲ ဘာလို့အကုန်အသိမပေးပဲ event / scholarship form လျှောက်တင်တဲ့သူ ကိုပဲ အပြစ်တင်ရတာလဲဗျ, Predicted Intent: transfer
+User ID: 1839554698, Message: IT တက်ချင်တာ IT major အကြောင်း ရှင်းပြပေးပါ, Predicted Intent: greeting
+User ID: 1256603938, Message: Help me with the University application form please, Predicted Intent: internship
+User ID: 1256603938, Message: ကျောင်းလျှောက်ရန်, Predicted Intent: internship
+User ID: 1839554698, Message: No comment သဘောလားဗျ, Predicted Intent: goodbye
+User ID: 1256603938, Message: ကျောင်းလခ, Predicted Intent: internship
+User ID: 1839554698, Message: ရူးချင်ယောင် ဆောင်တာလားဗျ, Predicted Intent: greeting
+User ID: 1256603938, Message: အဆောင်, Predicted Intent: hostel_Food
+User ID: 1256603938, Message: ကျောင်းစရိတ်, Predicted Intent: internship
+User ID: 1256603938, Message: စာမေးပွဲ, Predicted Intent: thanks
+User ID: 5110418380, Message: စာမေးပွဲ, Predicted Intent: thanks
+User ID: 5110418380, Message: စာမေးပွဲ, Predicted Intent: exam
+User ID: 5110418380, Message: ကျောင်းပြင်ပactivityတွေရှိလား, Predicted Intent: scholarship
+User ID: 5110418380, Message: ကျောင်းပြင်ပactivityတွေရှိလား, Predicted Intent: major
+User ID: 5110418380, Message: ကျောင်းစာကြည့်တိုက်ရှိလား, Predicted Intent: library
+User ID: 5110418380, Message: ကျောင်းပြင်ပactivityတွေရှိလား, Predicted Intent: activity
+User ID: 5110418380, Message: တက္ကသိုလ်ပြင်ပactivityရှိလား, Predicted Intent: activity
+User ID: 5110418380, Message: Activity တွေရှိလား, Predicted Intent: activity_club
+User ID: 5110418380, Message: Hello, Predicted Intent: greeting
+User ID: 5110418380, Message: ကျောင်းကန်တင်းရှိပါသလား, Predicted Intent: scholarship
+User ID: 5110418380, Message: ကျောင်းကန်တင်းကအစားအသောက်တွေကောင်းလား, Predicted Intent: teacher
+User ID: 5110418380, Message: ကျောင်းကန်တင်းကအစားအသောက်တွေကောင်းလား, Predicted Intent: coe
+User ID: 5110418380, Message: တက္ကသိုလ်ပြင်ပactivityရှိလား, Predicted Intent: greeting
+User ID: 5110418380, Message: တက္ကသိုလ်ပြင်ပactivityရှိလား, Predicted Intent: activity
+User ID: 5110418380, Message: Major ဘယ်နှစ်ခုရှိလဲ, Predicted Intent: major
+User ID: 5110418380, Message: ကျောင်းကန်တင်းရှိပါသလား, Predicted Intent: scholarship
+User ID: 5110418380, Message: ကျောင်းကန်တင်းရှိပါသလား, Predicted Intent: library
+User ID: 5110418380, Message: ကျောင်းကန်တင်းရှိပသလား, Predicted Intent: library
+User ID: 5110418380, Message: ကျောင်းကန်တင်းရှိသလား, Predicted Intent: library
+User ID: 5110418380, Message: ကန်တင်း ရှိ လား, Predicted Intent: canteen
+User ID: 5110418380, Message: ကျောင်းကန်တင်း ရှိ လား, Predicted Intent: library
+User ID: 5110418380, Message: ကျောင်းတက် ကာ လ ဘယ် နှစ် ရှိ သလဲ, Predicted Intent: training_period
+User ID: 5110418380, Message: ကျောင်းတက်ကာလဘယ်နှစ်လဲ, Predicted Intent: training_period
+User ID: 5110418380, Message: ကျောင်းကန်တင်း ရှိ လား, Predicted Intent: scholarship
+User ID: 5110418380, Message: ကျောင်းကန်တင်း, Predicted Intent: internship
+User ID: 5110418380, Message: ကန်တင်း, Predicted Intent: canteen
+User ID: 5110418380, Message: ကျောင်းကန်တင်း, Predicted Intent: internship
+User ID: 5110418380, Message: ကန်တင်း, Predicted Intent: canteen
+User ID: 5110418380, Message: TUMကန်တင်း, Predicted Intent: internship
+User ID: 5110418380, Message: ကျောင်းကန်တင်း, Predicted Intent: internship
+User ID: 5110418380, Message: ကျောင်းကန်တင်း, Predicted Intent: internship
+User ID: 5110418380, Message: <function segment_word at 0x10706e340>, Predicted Intent: internship
+User ID: 5110418380, Message: <function normalize_text at 0x17cac3b00>, Predicted Intent: internship
+User ID: 5110418380, Message: <function normalize_text at 0x17cac3b00>, Predicted Intent: teacher
+User ID: 5110418380, Message: ကျောင်းစာကြည့်တိုက်ရှိလား, Predicted Intent: library
+User ID: 5110418380, Message: ကျောင်းကန်တင်း, Predicted Intent: internship
+User ID: 5110418380, Message: ကန်တင်း, Predicted Intent: canteen
+User ID: 5110418380, Message: ကျောင်းကန်တင်းကအစားအသောက်ကောင်းလား, Predicted Intent: canteen
+User ID: 5110418380, Message: ကျောင်းကန်တင်းကအစားအသောက်တွေကောင်းလား, Predicted Intent: teacher
+User ID: 5110418380, Message: ကျောင်းကန်တင်းကအစားအသောက်တွေကောင်းလား, Predicted Intent: teacher
+User ID: 5110418380, Message: ကျောင်းကန်တင်းကအစားအသောက်ကောင်းလား, Predicted Intent: canteen
+User ID: 5110418380, Message: ကျောင်းကန်တင်းကအစားအသောက်တွေ, Predicted Intent: noanswer
+User ID: 5110418380, Message: ကျောင်းကန်တင်းကအစားအသောက်, Predicted Intent: coe
+User ID: 5110418380, Message: မေဂျာဘယ်နှစ်ခုရှိလဲ', Predicted Intent: major
+User ID: 5110418380, Message: ကန်တင်း, Predicted Intent: canteen
+User ID: 5110418380, Message: ကျောင်း ကန်တင်း, Predicted Intent: internship
+User ID: 5110418380, Message: ကျောင်းပိတ်ရက်, Predicted Intent: about
+User ID: 5110418380, Message: ကျောင်းကန်တင်း, Predicted Intent: canteen
+User ID: 5110418380, Message: TUM ကန်တင်း, Predicted Intent: canteen
+User ID: 5110418380, Message: ကျောင်းကန်တင်းရှိလား, Predicted Intent: canteen
+User ID: 5110418380, Message: ကျောင်းကန်တင်းရှိလား, Predicted Intent: canteen
+User ID: 5110418380, Message: ကျောင်းစာကြည့်တိုက်ရှိလား, Predicted Intent: library
+User ID: 5110418380, Message: မင်္ဂလာပါ, Predicted Intent: greeting
+User ID: 5110418380, Message: ကျောင်းမှာမေဂျာဘယ်နှစ်ခုရှိလဲ, Predicted Intent: major
+User ID: 5110418380, Message: ကျောင်းကန်တင်းကအစားအသောက်တွေကောင်းလား, Predicted Intent: coe
+User ID: 5110418380, Message: ကျောင်းကန်တင်းကအစားအသောက်, Predicted Intent: coe
+User ID: 5110418380, Message: မင်္ဂလာပါ, Predicted Intent: greeting
+User ID: 5110418380, Message: ကျောင်းကန်တင်းကအစားအသောက်, Predicted Intent: canteen
+User ID: 5110418380, Message: ကျောင်းကန်တင်းကအစားအသောက်တွေကောင်းလား, Predicted Intent: canteen
+User ID: 5110418380, Message: ဆရာမတွေ သဘောကောင်းလား, Predicted Intent: teacher
+User ID: 5110418380, Message: Start, Predicted Intent: internship
+User ID: 5110418380, Message: ကျောင်းမှာ မေဂျာဘယ်နှစ်ခု ရှိသလဲ, Predicted Intent: major
+User ID: 5110418380, Message: ကျောင်းလိပ်စာကိုပြောပြပါ, Predicted Intent: address
+User ID: 5110418380, Message: ဆရာမတွေကသဘောကောင်းလား, Predicted Intent: teacher
+User ID: 1642534323, Message: ကျောင်းရဲ့ လိပ်စာကိုပြောပြပါ, Predicted Intent: address
+User ID: 1642534323, Message: ဆရာမတွေသဘောကောင်းလား, Predicted Intent: teacher
+User ID: 1642534323, Message: ဘာမေဂျာတွေရှိလဲ, Predicted Intent: major
+User ID: 1642534323, Message: ကျောင်းအပ်ရင်ဘာတွေလိုလဲ, Predicted Intent: requirements
+User ID: 1642534323, Message: ကျောင်းအပ်ရင်ကော, Predicted Intent: internship
+User ID: 1642534323, Message: မေဂျာ, Predicted Intent: major
+User ID: 1648760849, Message: မေဂျာဘယ်နှစ်ခုရှိတာလံ, Predicted Intent: major
+User ID: 1648760849, Message: အမှတ်ပေါင်းဘယ်လောက်လဲ, Predicted Intent: requirements
+User ID: 1648760849, Message: ဘောလုံးအသင်းရှိလား, Predicted Intent: activity_club
+User ID: 1665480774, Message: Hi, Predicted Intent: greeting
+User ID: 1648760849, Message: စာသင်ကောင်းလာူ, Predicted Intent: internship
+User ID: 1665480774, Message: ကျောင်းမှာကန်တင်းရှိလာဍ, Predicted Intent: canteen
+User ID: 1665480774, Message: အမှတ်ပေါင်းဘလောက်လဲ, Predicted Intent: internship
+User ID: 1645063681, Message: ကျနော်ချောလား, Predicted Intent: greeting
+User ID: 1645063681, Message: ကျနော်ချောလား, Predicted Intent: greeting
+User ID: 1645063681, Message: ကျနော်ချောလား, Predicted Intent: greeting
+User ID: 5110418380, Message: ကျောင်းကန်တင်းရှိလား, Predicted Intent: canteen
+User ID: 5110418380, Message: ကျောင်းစာကြည့်တိုက်ကစာအုပ်တွေစုံလား, Predicted Intent: library
+User ID: 5110418380, Message: မေဂျာ, Predicted Intent: major
+User ID: 5110418380, Message: IT, Predicted Intent: Information Technology
+User ID: 5110418380, Message: IT မေဂျာဆိုတာဘာလဲ, Predicted Intent: about
+User ID: 5110418380, Message: IT အကြောင်းရှင်းပြပါ, Predicted Intent: Information Technology
+User ID: 5110418380, Message: IT ဆိုတာဘာလဲ, Predicted Intent: Information Technology
+User ID: 5110418380, Message: IT မေဂျာဆိုတာဘာလဲ, Predicted Intent: about
+User ID: 5110418380, Message: architectureဆိုတာဘာလဲ, Predicted Intent: Architecture
+User ID: 5110418380, Message: architectureမေဂျာဆိုတာဘာလဲ, Predicted Intent: Architecture
+User ID: 5110418380, Message: ITမေဂျာဆိုတာဘာလဲ, Predicted Intent: about
+User ID: 5110418380, Message: Civilမေဂျာဆိုတာဘာလဲ, Predicted Intent: Civil
+User ID: 5110418380, Message: EPဆိုတာဘာလဲ, Predicted Intent: Electrical Power
+User ID: 5110418380, Message: Epမေဂျာအကြောင်း, Predicted Intent: major
+User ID: 5110418380, Message: EP, Predicted Intent: Electrical Power
+User ID: 5110418380, Message: Architecture အကြောင်း, Predicted Intent: Architecture
+User ID: 5110418380, Message: Electrical Power မေဂျာဆိုတာဘာလဲ, Predicted Intent: Electrical Power
+User ID: 5110418380, Message: IT မေဂျာဆိုတာဘာလဲ, Predicted Intent: Information Technology
+User ID: 5110418380, Message: EP, Predicted Intent: Electrical Power
+User ID: 5110418380, Message: Epမေဂျာဆိုတာဘာလဲ, Predicted Intent: major
+User ID: 5110418380, Message: EPမေဂျာဆိုတာဘာလဲ, Predicted Intent: Mechanical Engineering
+User ID: 5110418380, Message: Hello, Predicted Intent: greeting
+User ID: 5110418380, Message: IT, Predicted Intent: Information Technology
+User ID: 5110418380, Message: ကျောင်းအပ်, Predicted Intent: requirements
+User ID: 5110418380, Message: ကျောင်းအပ်ရင်ကော, Predicted Intent: requirements
+User ID: 5110418380, Message: ကျောင်းလိပ်စာကိုပြောပြပါ, Predicted Intent: address
+User ID: 5110418380, Message: ကျောင်းအဆောင်လျောက်ဖို့ဘာတွေလိုလဲ, Predicted Intent: hostel
+User ID: 5110418380, Message: TUM ဆိုတာ ဘာလဲ, Predicted Intent: about
+User ID: 5110418380, Message: TUM နဲ့ MTU ဘာကွာလဲ, Predicted Intent: canteen
+User ID: 5110418380, Message: တာကာရှီစာကြိုးစားနေပါတယ်, Predicted Intent: goodbye
+User ID: 5110418380, Message: ကျောင်းအပ်ရင်ကော, Predicted Intent: requirements
+User ID: 5110418380, Message: ., Predicted Intent: greeting
+User ID: 5110418380, Message: civil engineering ကဘာလဲ, Predicted Intent: coe
+User ID: 5110418380, Message: civil ကဘာလဲ, Predicted Intent: coe
+User ID: 1648760849, Message: Hi, Predicted Intent: greeting
+User ID: 1648760849, Message: ITကဘာလဲ, Predicted Intent: Information Technology
+User ID: 1665480774, Message: Hi, Predicted Intent: greeting
+User ID: 1665480774, Message: ကန်တင်းဘယ်နခုရှိလဲ, Predicted Intent: noanswer
+User ID: 1648760849, Message: ကျောင်းကန်တင်းရှိလား, Predicted Intent: canteen
+User ID: 1665480774, Message: ဆရာမတွေ သဘောကောင်းကြလား, Predicted Intent: teacher
+User ID: 6113547311, Message: ​​​အ​ဆောင် စီစဥ်​ပေးလား, Predicted Intent: thanks
+User ID: 1648760849, Message: ဘောလုံးပြိုင်ပွဲရှိလား, Predicted Intent: internship
+User ID: 5921021839, Message: ကျောင်းသားရေးရာဖုန်းနံပါတ်ရှိလား, Predicted Intent: noanswer
+User ID: 1839554698, Message: ကျောင်းက 5 BE IT မာ ချောတဲ့သူ ရှိလား, Predicted Intent: coe
+User ID: 1648760849, Message: ISOကဘာလဲ, Predicted Intent: coe
+User ID: 6113547311, Message: Civil​မေဂျာမှာ ဘာ​တွေသင်ရမှာလဲ, Predicted Intent: major
+User ID: 5610717583, Message: ​​မေဂျာ ဘယ်နခုရှိတာလဲ, Predicted Intent: major
+User ID: 1839554698, Message: MTU ကို ပေါင်းကူးရော ရှိလား, Predicted Intent: transfer
+User ID: 1648760849, Message: မေဂျာဘယ်နှစ်ခုရှိတာလဲ, Predicted Intent: major
+User ID: 1648760849, Message: မေဂျာဘယ်လိုခွဲလဲ, Predicted Intent: major
+User ID: 1839554698, Message: Welcome ရော ရှိလား, Predicted Intent: Mechanical Engineering
+User ID: 1665480774, Message: အမှတ်ပေါင်းဘလောက်အနဲဆုံးရှိရလဲ, Predicted Intent: noanswer
+User ID: 1648760849, Message: ကျောင်းအပ်ဖို့ဘာလိုလဲ, Predicted Intent: requirements
+User ID: 1839554698, Message: ရညါးစားရှာပေးတဲ့ program ရော ရှိလား, Predicted Intent: scholarship
+User ID: 6113547311, Message: ​Ec​မေဂျာမှာ ဘာ​တွေသင်ရလဲ, Predicted Intent: major
+User ID: 6113547311, Message: Ec ​မေဂျာမှာ ဘာ​တွေသင်ရလဲ, Predicted Intent: major
+User ID: 6113547311, Message: Ec ​မေဂျာမှာ ဘာ​တွေသင်ရလဲ, Predicted Intent: Civil
+User ID: 6113547311, Message: Civil ​မေဂျာမှာ ဘာ​တွေသင်ရလဲ, Predicted Intent: Civil
+User ID: 1839554698, Message: Civil မေဂျာမှာ ဘာတွေ သင်ရလဲ, Predicted Intent: Civil
+User ID: 1839554698, Message: IT မေဂျာမှာ ဘာတွေသင်ရလဲ, Predicted Intent: Information Technology
+User ID: 6113547311, Message: Ep ​မေဂျာမှာ ဘာ​တွေသင်ရလဲ, Predicted Intent: Mechanical Engineering
+User ID: 1839554698, Message: Archi မာ ဘာတွေသင်ရလဲ, Predicted Intent: requirements
+User ID: 6113547311, Message: It ​မေဂျာမှာ ဘာ​တွေသင်ရလဲ, Predicted Intent: Information Technology
+User ID: 6113547311, Message: Mp ​မေဂျာမှာ ဘာ​တွေသင်ရလဲ, Predicted Intent: major
+User ID: 1839554698, Message: Mechanical မှာ ဘာတွေသင်ရလဲ, Predicted Intent: Mechanical Engineering
+User ID: 6113547311, Message: ME ​မေဂျာမှာ ဘာ​တွေသင်ရလဲ, Predicted Intent: Mechanical Engineering
+User ID: 6113547311, Message: MC ​မေဂျာမှာ ဘာ​တွေသင်ရလဲ, Predicted Intent: Mechatronic Engineering
+User ID: 1839554698, Message: Mechatronics မာ ဘာတွေသင်ရလဲ, Predicted Intent: Mechanical Engineering
+User ID: 6113547311, Message: Ec ​မေဂျာမှာ ဘာ​တွေသင်ရလဲ, Predicted Intent: Mechatronic Engineering
+User ID: 6113547311, Message: Ep ​မေဂျာမှာ ဘာ​တွေသင်ရလဲ, Predicted Intent: Mechatronic Engineering
+User ID: 1839554698, Message: Mechatronics မာ ဘာတွေသင်ရလဲ, Predicted Intent: Mechatronic Engineering
+User ID: 6113547311, Message: Ep ​မေဂျာမှာ ဘာ​တွေသင်ရလဲ, Predicted Intent: Mechatronic Engineering
+User ID: 1648760849, Message: လျှပ်စစ်စွမ်းအား, Predicted Intent: Mechatronic Engineering
+User ID: 6113547311, Message: လျှပ်စစ်စွမ်းအား ​မေဂျာမှာ ဘာ​တွေသင်ရလဲ, Predicted Intent: Mechatronic Engineering
+User ID: 1839554698, Message: Mechatronics က ဘာလဲ, Predicted Intent: Mechatronic Engineering
+User ID: 1648760849, Message: ITကဘာလဲ, Predicted Intent: Mechatronic Engineering
+User ID: 1839554698, Message: IT က ဘာလဲ, Predicted Intent: Mechatronic Engineering
+User ID: 6113547311, Message: Ep မေဂျာမှာ ဘာ​တွေသင်ရလဲ, Predicted Intent: major
+User ID: 1839554698, Message: IT ကဘာလဲ, Predicted Intent: Information Technology
+User ID: 1648760849, Message: Ecကဘာလဲ, Predicted Intent: coe
+User ID: 6113547311, Message: ME ​မေဂျာမှာ ဘာ​တွေသင်ရလဲ, Predicted Intent: major
+User ID: 1839554698, Message: IT မာ ဘာသင်ရလဲ, Predicted Intent: exam
+User ID: 1648760849, Message: ITကဘာလဲ, Predicted Intent: Information Technology
+User ID: 1648760849, Message: Ep ကဘာလဲ, Predicted Intent: Electrical Power
+User ID: 1665480774, Message: EPကဘာလဲ, Predicted Intent: Electrical Power
+User ID: 1839554698, Message: IT မှာ ဘာသင်ရလဲ, Predicted Intent: Information Technology
+User ID: 1839554698, Message: Civil မှာ ဘာသင်ရလဲ, Predicted Intent: Civil
+User ID: 1665480774, Message: ECကဘာလဲ, Predicted Intent: coe
+User ID: 1648760849, Message: ITမှာဘာတွေသင်ရလဲ, Predicted Intent: Information Technology
+User ID: 1648760849, Message: EC, Predicted Intent: Electronic Engineering
+User ID: 1648760849, Message: ME, Predicted Intent: Mechanical Engineering
+User ID: 1648760849, Message: MC, Predicted Intent: Mechatronic Engineering
+User ID: 1839554698, Message: Mechatronics ကဘာလဲ, Predicted Intent: coe
+User ID: 1839554698, Message: Mechatronics, Predicted Intent: Mechanical Engineering
+User ID: 1839554698, Message: Mechatronic, Predicted Intent: Mechanical Engineering
+User ID: 6113547311, Message: ဘာ​မေဂျာ​တွေ ရှိလဲ, Predicted Intent: major
+User ID: 1665480774, Message: ECကဘာလဲ, Predicted Intent: coe
+User ID: 5110418380, Message: ME ​မေဂျာမှာ ဘာ​တွေသင်ရလဲ, Predicted Intent: major
+User ID: 5110418380, Message: It ​မေဂျာမှာ ဘာ​တွေသင်ရလဲ, Predicted Intent: major
+User ID: 5110418380, Message: Ecကဘာလဲ, Predicted Intent: coe
+User ID: 5110418380, Message: Ec က ဘာလဲ, Predicted Intent: Electronic Engineering
+User ID: 5110418380, Message: Ecကဘာလဲ, Predicted Intent: coe
+User ID: 5110418380, Message: Ec က ဘာလဲ, Predicted Intent: coe
+User ID: 5110418380, Message: It ​မေဂျာမှာ ဘာ​တွေသင်ရလဲ, Predicted Intent: Information Technology
+User ID: 5110418380, Message: Itမေဂျာမှာဘာ​တွေသင်ရလဲ, Predicted Intent: major
+User ID: 5110418380, Message: Itမေဂျာမှာဘာ​တွေသင်ရလဲ, Predicted Intent: Information Technology
+User ID: 5110418380, Message: Ec က ဘာလဲ, Predicted Intent: coe
+User ID: 5110418380, Message: Ec က ဘာလဲ, Predicted Intent: Electronic Engineering
+User ID: 5110418380, Message: ME မှာဘာတွေသင်ရလဲ, Predicted Intent: Mechanical Engineering
+User ID: 5110418380, Message: Mc မေဂျာဆိုတာဘာလဲ, Predicted Intent: Mechatronic Engineering
+User ID: 5110418380, Message: ME မှာဘာတွေသင်ရလဲ, Predicted Intent: Mechanical Engineering
+User ID: 5110418380, Message: It မေဂျာမှာဘာတွေသင်ရလဲ, Predicted Intent: Information Technology
+User ID: 5110418380, Message: Itမေဂျာဘာတွေသင်ရလဲ, Predicted Intent: Information Technology
+User ID: 5110418380, Message: Mcမေဂျာမှာဘာတွေသင်ရလဲ, Predicted Intent: major
+User ID: 5110418380, Message: Itမေဂျာမှာဘာတွေသင်ရလဲ, Predicted Intent: Information Technology
+User ID: 5110418380, Message: Meမေဂျာမှာဘာတွေသင်ရလဲ, Predicted Intent: Mechanical Engineering
+User ID: 5110418380, Message: Epမေဂျာမှာဘာတွေသင်ရလဲ, Predicted Intent: Electrical Power
+User ID: 5110418380, Message: Civilမေဂျာမှာဘာတွေသင်ရလဲ, Predicted Intent: Civil
+User ID: 5110418380, Message: petrolမေဂျာမှာဘာတွေသင်ရလဲ, Predicted Intent: major
+User ID: 5110418380, Message: petrolမေဂျာမှာဘာတွေသင်ရလဲ, Predicted Intent: major
+User ID: 5110418380, Message: petrolမေဂျာမှာဘာတွေသင်ရလဲ, Predicted Intent: Petroleum Engineering
+User ID: 5110418380, Message: Archiမှာရော, Predicted Intent: Architecture
+User ID: 5110418380, Message: Mcမေဂျာမှာဘာတွေသင်ရလဲ, Predicted Intent: major
+User ID: 5110418380, Message: Mc မေဂျာ, Predicted Intent: greeting
+User ID: 5110418380, Message: Mc မေဂျာအကြောင်းရှင်းပြပါ, Predicted Intent: major
+User ID: 5110418380, Message: ITမေဂျာအကြောင်းရှင်းပြပါ, Predicted Intent: major
+User ID: 5110418380, Message: ITမေဂျာအကြောင်းရှင်းပြပါ, Predicted Intent: major
+User ID: 5110418380, Message: Itမေဂျာအကြောင်းရှင်းပြပါ, Predicted Intent: Information Technology
+User ID: 5110418380, Message: Itမေဂျာအကြောင်းရှင်းပြပါ, Predicted Intent: Information Technology
+User ID: 5110418380, Message: ITမေဂျာအကြောင်းရှင်းပြပါ, Predicted Intent: Information Technology
+User ID: 5110418380, Message: petro, Predicted Intent: greeting
+User ID: 5110418380, Message: petrol, Predicted Intent: Petroleum Engineering
+User ID: 5110418380, Message: Mcမေဂျာအကြောင်းရှင်းပြပါ, Predicted Intent: Mechatronic Engineering
+User ID: 5110418380, Message: Mcမေဂျာအကြောင်းရှင်းပြပါ, Predicted Intent: Mechatronic Engineering
+User ID: 1648760849, Message: MCကဘာလဲ, Predicted Intent: Mechatronic Engineering
+User ID: 1648760849, Message: Ecမေဂျာက ဘာလဲ, Predicted Intent: Electronic Engineering
+User ID: 1648760849, Message: စက်မှုအင်ဂျင်နီယာ ကဘာလဲ, Predicted Intent: greeting
+User ID: 1648760849, Message: အီလက်ထရွန်းအင်ဂျင်နီယာက ဘာလဲ, Predicted Intent: greeting
+User ID: 1648760849, Message: အီလက်ထရွန်းအင်ဂျင်နီယာက ဘာလဲ, Predicted Intent: greeting
+User ID: 5110418380, Message: သုတနည်းပညာမေဂျာ, Predicted Intent: greeting
+User ID: 5110418380, Message: အီလက်ထရောနစ်, Predicted Intent: Electronic Engineering
+User ID: 5110418380, Message: သုတနည်းပညာမေဂျာ, Predicted Intent: greeting
+User ID: 5110418380, Message: စက်မှုအင်ဂျင်နီယာ, Predicted Intent: greeting
+User ID: 5110418380, Message: ကျောင်းလိပ်စာကိုပြောပြပါ, Predicted Intent: greeting
+User ID: 5110418380, Message: ကျောင်းလိပ်စာကိုပြောပြပါ, Predicted Intent: address
+User ID: 5110418380, Message: တက္ကသိုလ်လိပ်စာကိုပြောပြပါ, Predicted Intent: address
+User ID: 5110418380, Message: ကျောင်းစာကြည့်တိုက်ရှိလား, Predicted Intent: library
+User ID: 5110418380, Message: တက္ကသိုလ်စာကြည့်တိုက်ရှိလား, Predicted Intent: library
+User ID: 5110418380, Message: ITမေဂျာကိုရှင်းပြပါ, Predicted Intent: Information Technology
+User ID: 5110418380, Message: အီလက်ထရွန်းမေဂျာ, Predicted Intent: Electronic Engineering
+User ID: 5110418380, Message: မြို့ပြအင်ဂျင်နီယာ, Predicted Intent: Civil
+User ID: 5110418380, Message: အမှတ်စာရင်းဘယ်လောက်လိုတာလဲ, Predicted Intent: total_marks
+User ID: 5110418380, Message: ကျောင်းလိပ်စာကိုပြောပြပါ, Predicted Intent: address
+User ID: 5110418380, Message: Mcမေဂျာအကြောင်းပြောပြပါ, Predicted Intent: Mechatronic Engineering
+User ID: 5298656763, Message: Major, Predicted Intent: major
+User ID: 1831041903, Message: ​ကျောင်းက​ဆော်​တွေ​ချောလား, Predicted Intent: noanswer
+User ID: 5298656763, Message: IT, Predicted Intent: Information Technology
+User ID: 1831041903, Message: ​ကျောင်းထွက်ချင်တယ်, Predicted Intent: training_period
+User ID: 5298656763, Message: ဆရာမတွေချောလား, Predicted Intent: teacher
+User ID: 1831041903, Message: ​ကျောင်းထွက်ချင်တယ်, Predicted Intent: training_period
+User ID: 1898228781, Message: မေဂျာတွေက, Predicted Intent: major
+User ID: 1898228781, Message: မေဂျာ, Predicted Intent: major
+User ID: 1831041903, Message: ဘယ်​မေဂျာ​တွေရှိတာလဲ, Predicted Intent: major
+User ID: 1898228781, Message: ဂျာ, Predicted Intent: greeting
+User ID: 1898228781, Message: မေဂျာ, Predicted Intent: major
+User ID: 1831041903, Message: ဦး​ရွှေရိုးအ​ကြောင်း, Predicted Intent: statue
+User ID: 1898228781, Message: Result, Predicted Intent: greeting
+User ID: 5298656763, Message: အောင်စာရင်း, Predicted Intent: total_marks
+User ID: 1958306303, Message: IT မေဂျာမှာ ဘယ်ဘာသာရပ်တွေ သင်တာလည်းရှင့်, Predicted Intent: Information Technology
+User ID: 1898228781, Message: အောင်စာရင်း, Predicted Intent: total_marks
+User ID: 1648760849, Message: ITကဘာလဲ, Predicted Intent: Information Technology
+User ID: 1898228781, Message: IT အောင်စာရင်း, Predicted Intent: Information Technology
+User ID: 1648760849, Message: SoftwareEngineering ဆိုတာဘာလဲ, Predicted Intent: about
+User ID: 1831041903, Message: ​မေဂျာ​တွေက အမှတ်ဘယ်​လောက်လဲ, Predicted Intent: total_marks
+User ID: 1813887004, Message: Hi, Predicted Intent: greeting
+User ID: 1958306303, Message: ကျောင်းလိပ်စာလေး သိချင်ပါတယ်, Predicted Intent: goodbye
+User ID: 1740392554, Message: ကျောင်းလိပ်စာ ပြောပြပါ, Predicted Intent: greeting
+User ID: 1831041903, Message: civilကဘာလဲ, Predicted Intent: Civil
+User ID: 1898228781, Message: မုန့်, Predicted Intent: greeting
+User ID: 1831041903, Message: ITက​ရောဘာလဲ, Predicted Intent: Information Technology
+User ID: 1898228781, Message: ကျောင်းသား, Predicted Intent: greeting
+User ID: 5298656763, Message: Canteen, Predicted Intent: greeting
+User ID: 1813887004, Message: ပထမနှစ်ဝင်ခွင့်, Predicted Intent: goodbye
+User ID: 1831041903, Message: Biotech​ရောရှိလား, Predicted Intent: noanswer
+User ID: 1898228781, Message: Embedded, Predicted Intent: greeting
+User ID: 1831041903, Message: ITကဘာသာရပ်​တွေကဘာလဲ, Predicted Intent: Information Technology
+User ID: 5298656763, Message: ကန်တင်း, Predicted Intent: canteen
+User ID: 1831041903, Message: ဘယ်​မေဂျာကအ​ကောင်းဆုံးလည်း, Predicted Intent: major
+User ID: 1831041903, Message: ​ကျောင်းမှာ ဘာပွဲ​တွေရှိလည်း, Predicted Intent: activity
+User ID: 1898228781, Message: hostel, Predicted Intent: greeting
+User ID: 1813887004, Message: 1st yr, Predicted Intent: greeting
+User ID: 1831041903, Message: TUMက​ပျော်စရာ​ကောင်းလား, Predicted Intent: canteen
+User ID: 1898228781, Message: Hostel, Predicted Intent: greeting
+User ID: 1813887004, Message: ပထမနှစ်ဝင်ခွင့်, Predicted Intent: goodbye
+User ID: 1898228781, Message: Hostel နဲ့ပတ်သတ်တဲ့ အချက်, Predicted Intent: thanks
+User ID: 1898228781, Message: ကျောင်းအကြောင်းပြောပြပါ, Predicted Intent: about
+User ID: 1831041903, Message: BotTUMအ​ကြောင်း, Predicted Intent: statue
+User ID: 1813887004, Message: အမှတ်စာရင်း, Predicted Intent: total_marks
+User ID: 1898228781, Message: ကျောင်းအကြောင်းပြောပြပါ, Predicted Intent: about
+User ID: 1898228781, Message: ကျောင်းအကြောင်းပြောပြပါ, Predicted Intent: about
+User ID: 1831041903, Message: BotTUMအ​ကြောင်း​ပြောပြပါ, Predicted Intent: about
+User ID: 1898228781, Message: ကျောင်းအကြောင်းပြောပြပါ, Predicted Intent: about
+User ID: 5110418380, Message: ကျောင်းလိပ်စာကိုပြောပြပါ, Predicted Intent: address
+User ID: 1898228781, Message: ကျောင်းဘယ်နှခုနှစ်မှာ စတင်တည်ထောင်, Predicted Intent: about
+User ID: 1958306303, Message: ကျောင်းလိပ်စာလေး သိချင်ပါတယ်, Predicted Intent: goodbye
+User ID: 5298656763, Message: အမှတ်စာရင်း, Predicted Intent: total_marks
+User ID: 1958306303, Message: ကျောင်းလိပ်စာလေးသိချင်ပါတယ်, Predicted Intent: goodbye
+User ID: 1898228781, Message: ဦးရွှေအိုး, Predicted Intent: greeting
+User ID: 1898228781, Message: ဦးရွှေအိုး, Predicted Intent: greeting
+User ID: 5298656763, Message: လူကြိုက်အများဆုံးမေဂျာ, Predicted Intent: major
+User ID: 1831041903, Message: yearတစ်ခုကိုဘယ်​လောက်ကြာလဲ, Predicted Intent: exam
+User ID: 1737409749, Message: အဲ့​​ကျောင်းက ဘာတွေ သင်​ပေးမှာလဲ, Predicted Intent: major
+User ID: 1831041903, Message: စ​ကောလားရှစ်ရှိလား, Predicted Intent: scholarship
+User ID: 1831041903, Message: ​ကျောင်း​ပြောင်း, Predicted Intent: about
+User ID: 1737409749, Message: အိုင်တီ​မေဂျာက ဘာ​တွေ သင်​ပေးမှာလဲ, Predicted Intent: major
+User ID: 1831041903, Message: ​ပေါ်ပြူလာအဖြစ်ဆုံး​မေဂျာ, Predicted Intent: major
+User ID: 5110418380, Message: ကျောင်းလိပ်စာ ပြောပြပ, Predicted Intent: greeting
+User ID: 5110418380, Message: ကျောင်းလိပ်စာ ပြောပြပါ, Predicted Intent: greeting
+User ID: 5110418380, Message: ကျောင်းလိပ်စာကိုပြောပြပါ, Predicted Intent: address
+User ID: 5110418380, Message: ကျောင်းလိပ်စာပြောပြပါ, Predicted Intent: greeting
+User ID: 5110418380, Message: ကျောင်းလိပ်စာပြောပြပါ, Predicted Intent: greeting

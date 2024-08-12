@@ -1,0 +1,41 @@
+
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+/venv
+
+/UniChatBot.json
+
+
+# Ignore tokenizer and label encoder files
+tokenizer.pkl
+label_encoder.pkl
+classes.pkl
+words.pkl
+
+# Ignore GloVe embeddings
+glove.6B.zip
+glove.6B/
+
+# Ignore other specific files and directories
+ensure_nltk_data.py
+instance/
+migrations/
+
+test1-314913-e1c1840792b8.json
+uploads/
+user_inputs.json
+Token_example
+modeltrain3.py
+modeltrain1.py
+modeltrain.py
+
+
+.DS_Store
+TelegramBot.git
+
+chatbot_model1.h5
+chatbot.py
