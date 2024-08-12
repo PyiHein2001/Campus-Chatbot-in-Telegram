@@ -161,7 +161,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE) -> 
 
 def main() -> None:
     """Start the bot."""
-    TOKEN = '7286467450:AAHuvqOC9jiosqYRi_fTCJzJwbbJgAZQXlg'
+    TOKEN = ''
 
     # Set up logging
     logging.basicConfig(format='%(asctime)s - %(name)s - %(level.levelname)s - %(message)s', level=logging.INFO)
