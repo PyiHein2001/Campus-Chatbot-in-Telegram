@@ -3,7 +3,7 @@
 
 This is a university ChatBot Using NLTK and set up in telegram API.
 To test the model and collect data.
-
+Using Intents classification method and Support for myanmar language.
 ## Installation requirements
 
 ```bash
